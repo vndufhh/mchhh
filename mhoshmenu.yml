@@ -29,6 +29,7 @@ menu-settings:
   # Supports all the icon action types.
   open-actions:
   - 'tell: &eYou opened the Minecraft hosh server menu.'
+  - 'tell: &e你已打開Hosh Minecraft伺服器.`'
 
   # OPTIONAL
   # The menu will open only when right-clicking with a compass.
@@ -49,11 +50,11 @@ spawn-command:
   MATERIAL: enderpearl
   POSITION-X: 1
   POSITION-Y: 1
-  NAME: '&e/spawn'
+  NAME: '&e/ping'
   LORE:
-    - 'Makes the player run the /spawn command.'
+    - '點我測試延遲'
   ACTIONS:
-    - 'spawn'
+    - 'ping'
 
 
 durability-armor:
