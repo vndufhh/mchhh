@@ -17,7 +17,7 @@ menu-settings:
   # OPTIONAL
   # Set which commands a player can execute to open the menu.
   commands:
-  - 'm'
+  - 'm-hosh'
 
   # OPTIONAL
   # How frequently the menu will be refreshed, in seconds.
